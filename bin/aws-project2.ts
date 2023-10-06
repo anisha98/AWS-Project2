@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+#https://www.youtube.com/watch?v=TXXtiM8DUZc&list=PLp0uiiYgT8KxOAP_U7moyUPnTqY6KKTGY&index=1&ab_channel=JonathanMoo
 import 'source-map-support/register';
 import * as cdk from 'aws-cdk-lib';
 import { AwsProject2Stack } from '../lib/aws-project2-stack';
